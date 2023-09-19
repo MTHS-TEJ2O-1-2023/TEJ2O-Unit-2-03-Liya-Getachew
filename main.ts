@@ -8,6 +8,6 @@
 basic.clearScreen()
 basic.pause(1000)
 
-basic.showString("A rectangle has dimensions 5cm & 3cm.")
-basic.showString("The perimeter equals " + (2 * (5 + 3)).toString() + "cm")
-basic.showString('The area equals ' + (5 * 3).toString() + "cm^2")
+basic.showString('A rectangle has dimensions 5cm & 3cm.')
+basic.showString('The perimeter equals ' + (2 * (5 + 3)).toString() + 'cm')
+basic.showString('The area equals ' + (5 * 3).toString() + 'cm^2')
